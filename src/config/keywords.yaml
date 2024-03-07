@@ -1,0 +1,33 @@
+Variables: 
+  Mutable: var
+  Immutable: const
+
+Functions:
+  Function: "func"
+
+IfStatements:
+  If: if
+  Else: else
+  Return: return
+
+TryStatement:
+  Try: try
+  Except: except
+
+MatchStatement:
+  Match: try
+  Case: case
+  Default: default
+
+Loops:
+  For: for
+  While: while
+  Break: break
+  Continue: continue
+
+StatementComparison:
+  Is: "is"
+  In: "in"
+  Not: "not"
+  And: "and"
+  Or: "or"

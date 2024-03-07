@@ -1,0 +1,59 @@
+Characters: 
+  Comma: ","
+  Dot: "."
+  Colon: ":"
+  Semicolon: ";"
+  OpenParen: "("
+  CloseParen: ")"
+  OpenCurBrackt: "{"
+  CloseCurBrackt: "}"
+  OpenSqrBrackt: "["
+  CloseSqrBrackt: "]"
+  Lesser: "<"
+  Greater: ">"
+  Exclamation: "!"
+  Question: "?"
+  Bar: "|"
+  Ampersand: "&"
+  
+Operands:
+  Addition: "+"
+  Subtraction: "-"
+  Multiplication: "*"
+  Division: "/"
+  Modulus: "%"
+  Exponentiation: "**"
+  FloorDivision: "//"
+
+Assignment:
+  Equals: "="
+  PlussEquals: "+="
+  MinusEquals: "-="
+  TimesEquals: "*="
+  DivideEquals: "/="
+  ModulusEquals: "%="
+  FloorDivideEquals: "//="
+  ExponentEquals: "**="
+
+Bitwise:
+  BitwiseAND: "&"
+  BitwiseOR: "|"
+  BitwiseXOR: "^"
+  BitwiseNOT: "~"
+  ZeroFillLeftShift: "<<"
+  SignedRightShift: ">>"
+
+BitwiseAssignment:
+  BitwiseAssignmentAND: "&="
+  BitwiseAssignmentOR: "|="
+  BitwiseAssignmentXOR: "^="
+  AssignmentRightShift: ">>="
+  AssignmentLeftShift: "<<="
+
+Comparison:
+  EqualsCompare: "=="
+  NotEqualsCompare: "!="
+  LesserCompare: "<="
+  GreaterCompare: ">="
+  And: "&&"
+  Or: "||"
